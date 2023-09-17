@@ -1,7 +1,8 @@
 # Bioinformatics Algorithms (Autumn 2023)
 
 This repository is a collection of problems (and solutions) from the Bioinformatics Algorithms course (Autumn 2023) at MIPT
-All problems are [ROSALIND](https://rosalind.info) problems
+
+All problems in this repository are [ROSALIND](https://rosalind.info) problems
 
 ## Problems
 

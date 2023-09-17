@@ -11,3 +11,9 @@ if __name__ == "__main__":
     with open("problem_02_dataset.txt", "r") as file:
         lines = file.readlines()
         genome = lines[0].strip()
+
+    # calculate the result
+    result = sample(genome, k, d)
+    for i in result:
+        print(i, end=" ")
+    print()

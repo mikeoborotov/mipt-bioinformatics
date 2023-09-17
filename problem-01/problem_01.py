@@ -28,7 +28,7 @@ if __name__ == "__main__":
 	k = L = t = 0
 
 	# read the dataset from file
-	with open("task_01_dataset.txt", "r") as file:
+	with open("problem_01_dataset.txt", "r") as file:
 		lines = file.readlines()
 		genome = lines[0].strip() 
 		k, L, t = map(int, lines[1].split())

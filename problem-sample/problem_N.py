@@ -4,4 +4,10 @@ def sample(sample_input):
     return result
 
 if __name__ == "__main__":
-	
+	# initialize the variables
+    genome = ""
+
+    # read the dataset from file
+    with open("problem_02_dataset.txt", "r") as file:
+        lines = file.readlines()
+        genome = lines[0].strip()

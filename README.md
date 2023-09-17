@@ -1,1 +1,1 @@
-# mipt-bioinformatics
+# Bioinformatics Algorithms (Autumn 2023)

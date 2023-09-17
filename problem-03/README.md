@@ -15,7 +15,9 @@ Return: All starting positions where Pattern appears as a substring of Text with
 ## Sample Dataset
 
 ATTCTGGA
+
 CGCCCGAATCCAGAACGCATTCCCATATTTCGGGACCACTGGCCTCCACGGTACGGACGTCAATCAAATGCCTAGCGGCTTGTGGTTTCTCCTACGCTCC
+
 3
 
 

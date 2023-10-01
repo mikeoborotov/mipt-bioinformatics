@@ -11,3 +11,5 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 03 - Approximate Pattern Matching](problem-03)
 - [Problem 04 - Frequent Words with Mismatches](problem-04)
 - [Problem 05 - Frequent Words with Mismatches and Reverse Complements](problem-05)
+- [Problem 06 - Implement GreedyMotifSearch](problem-06)
+- [Problem 07 - Implement GreedyMotifSearch with Pseudocounts](problem-07)

@@ -1,4 +1,4 @@
-# Bioinformatics Algorithms (Autumn 2023) Problem 7
+# Bioinformatics Algorithms (Autumn 2023) Problem 8
 
 We will now turn to randomized algorithms that flip coins and roll dice in order to search for motifs. Making random algorithmic decisions may sound like a disastrous idea; just imagine a chess game in which every move would be decided by rolling a die. However, an 18th Century French mathematician and naturalist, Comte de Buffon, first proved that randomized algorithms are useful by randomly dropping needles onto parallel strips of wood and using the results of this experiment to accurately approximate the constant π.
 
@@ -38,6 +38,3 @@ TACAGGCG
 TTCAGGTG
 
 TCCACGTG
-
-
-Warning: sample output may be incorrect!

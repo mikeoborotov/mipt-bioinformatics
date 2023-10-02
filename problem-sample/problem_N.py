@@ -8,7 +8,7 @@ if __name__ == "__main__":
     genome = ""
 
     # read the dataset from file
-    with open("problem_02_dataset.txt", "r") as file:
+    with open("dataset.txt", "r") as file:
         lines = file.readlines()
         genome = lines[0].strip()
 

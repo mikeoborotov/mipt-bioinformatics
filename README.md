@@ -15,4 +15,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 07 - Implement GreedyMotifSearch with Pseudocounts](problem-07)
 - [Problem 08 - Implement RandomizedMotifSearch](problem-08)
 - [Problem 09 - Implement GibbsSampler](problem-09)
-- [Problem 10 - Implement RandomizedMotifSearchRandomizedMotifSearchRandomizedMotifSearch](problem-08)
+- [Problem 10 - Compute DistanceBetweenPatternAndStrings](problem-10)

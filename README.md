@@ -18,3 +18,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 10 - Compute DistanceBetweenPatternAndStrings](problem-10)
 - Problems 11-15 are solved, will fix README later
 - [Problem 16 - Peptide Encoding Problem](problem-16)
+- [Problem 17 - Counting Peptides with Given Mass Problem](problem-17)

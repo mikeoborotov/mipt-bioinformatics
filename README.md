@@ -16,3 +16,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 08 - Implement RandomizedMotifSearch](problem-08)
 - [Problem 09 - Implement GibbsSampler](problem-09)
 - [Problem 10 - Compute DistanceBetweenPatternAndStrings](problem-10)
+- Problems 11-15 are solved, will fix README later

@@ -23,3 +23,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 19 - Implement LeaderboardCyclopeptideSequencing](problem-19)
 - [Problem 20 - Implement ConvolutionCyclopeptideSequencing](problem-20)
 - [Problem 21 - The Change Problem](problem-21)
+- [Problem 22 - Length of a Longest Path in the Manhattan Tourist Problem](problem-22)

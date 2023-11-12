@@ -25,3 +25,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 21 - The Change Problem](problem-21)
 - [Problem 22 - Length of a Longest Path in the Manhattan Tourist Problem](problem-22)
 - [Problem 23 - Global Alignment Problem](problem-23)
+- [Problem 24 - Local Alignment Problem](problem-24)

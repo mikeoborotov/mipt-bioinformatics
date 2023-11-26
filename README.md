@@ -29,3 +29,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 25 - Multiple Longest Common Subsequence Problem](problem-25)
 - [Problem 26 - Implement GreedySorting](problem-26)
 - [Problem 27 - Number of Breakpoints Problem](problem-27)
+- [Problem 28 - 2-Break Distance Problem](problem-28)

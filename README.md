@@ -27,3 +27,4 @@ All problems in this repository are [ROSALIND](https://rosalind.info) problems
 - [Problem 23 - Global Alignment Problem](problem-23)
 - [Problem 24 - Local Alignment Problem](problem-24)
 - [Problem 25 - Multiple Longest Common Subsequence Problem](problem-25)
+- [Problem 26 - Implement GreedySorting](problem-26)
